@@ -36,16 +36,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# This is <hi> tag
-## This is <h3> tag
-###### This is <h6> tag
+# This is one pound tag
+### This is three_pound tag
+###### This is six_pound tag
   And follow after
   
-__This one is bold
+__ This one is bold
 
-*This one is etalic
+* This one is etalic
 
-_**This on is etalic and bold
+_** This on is etalic and bold
 
  
 
