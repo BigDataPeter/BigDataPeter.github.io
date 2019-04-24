@@ -35,3 +35,28 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+#This is <hi> tag
+##This is <h3> tag
+######This is <h6> tag
+  And follow after
+  
+__This one is bold
+
+*This one is etalic
+_**This on is etalic and bold
+
+*  unordered list 1
+*  unordered list 2
+   *  unordered item 1
+   *  unordered item 2
+
+l.  ordered item 1
+1.  ordered item 2
+  l.  ordered subitem 1
+  l.  ordered subitem 2
+ 
+
+
+
+  
